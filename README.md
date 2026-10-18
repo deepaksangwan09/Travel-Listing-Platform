@@ -1,2 +1,2 @@
-# wanderlust-project
-A code repo for project learning
+# TRAVEL LISTING WEB APP 
+A travel listing project designed like Airbnb
